@@ -1,0 +1,26 @@
+{
+  "name": "nusfintechsg",
+  "version": "1.0.0",
+  "description": "This is my first node project",
+  "main": "recap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mingxuanng/nusfintechsg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingxuanng/nusfintechsg/issues"
+  },
+  "homepage": "https://github.com/mingxuanng/nusfintechsg#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-openid-connect": "^2.16.0",
+    "mysql": "^2.18.1"
+  }
+}
